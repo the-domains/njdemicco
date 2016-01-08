@@ -1,7 +1,7 @@
 name: Njdemicco
 favicon: null
-layout_spectrum: 0.3428938891738653
-typography_spectrum: 0.6268589922692627
+layout_spectrum: 0.38245
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4582929699681699
-  lightness: 0.3703627334907651
-  saturation: 0.7403306406922638
-  rhythmicContrast: 0.07894299528561532
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
